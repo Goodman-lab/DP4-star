@@ -22,7 +22,7 @@ setup(
         'dp4': ['data/*']
     },
     install_requires=[
-        'numpy', 'scipy', 'networkx', 'rdkit'
+        'numpy', 'scipy', 'networkx', 'rdkit', 'setuptools'
     ],
     entry_points={
         'console_scripts': [

@@ -3,3 +3,4 @@ numpy
 rdkit
 networkx
 cython
+setuptools

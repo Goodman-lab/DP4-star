@@ -23,8 +23,7 @@ This repository contains all the code necessary to reproduce the DP4* results in
 the paper **"Towards automatically verifying chemical structures: the powerful
 combination of <sup>1</sup>H NMR and IR spectroscopy"**.
 
-This package should be used in conjunction with the data repository available at
-`apollo link` in order to reproduce the DP4* results.
+This package should be used in conjunction with the [Apollo data repository](https://doi.org/10.17863/CAM.110235) in order to reproduce the DP4* results.
 
 Functionality from other releases of DP4 (diastereoisomer generation, automatic
 interpretation of raw NMR data, conformational analysis of 5-membered rings,
@@ -38,11 +37,11 @@ reproduction of the results in the paper.
 ### Requirements
 
 - Python 3.6+
-- `scipy`
-- `numpy`
-- `rdkit`
-- `networkx`
-- `cython`
+- `scipy` (version 1.14.0)
+- `numpy` (version 2.0.1)
+- `rdkit` (version 2024.3.4)
+- `networkx` (version 3.3)
+- `setuptools` (version 72.1.0)
 
 ### Setup Instructions
 
