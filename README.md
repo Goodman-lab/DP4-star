@@ -25,6 +25,8 @@ combination of <sup>1</sup>H NMR and IR spectroscopy"**.
 
 This package should be used in conjunction with the [Apollo data repository](https://doi.org/10.17863/CAM.110235) in order to reproduce the DP4* results.
 
+Scripts to reproduce the SCC plots from the paper are also available [on GitHub](https://github.com/Goodman-lab/SCC).
+
 Functionality from other releases of DP4 (diastereoisomer generation, automatic
 interpretation of raw NMR data, conformational analysis of 5-membered rings,
 calculation of DP5 probabilities) has been removed to facilitate easy
