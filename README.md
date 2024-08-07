@@ -23,7 +23,10 @@ This repository contains all the code necessary to reproduce the DP4* results in
 the paper **"Towards automatically verifying chemical structures: the powerful
 combination of <sup>1</sup>H NMR and IR spectroscopy"**.
 
-This package should be used in conjunction with the [Apollo data repository](https://doi.org/10.17863/CAM.110235) in order to reproduce the DP4* results.
+This package should be used in conjunction with the [Apollo data
+repository](https://doi.org/10.17863/CAM.110235) in order to reproduce the DP4*
+results. Using the data from the Apollo repository, the results from the paper
+can be reproduced in roughly 5 minutes.
 
 Scripts to reproduce the SCC plots from the paper are also available [on GitHub](https://github.com/Goodman-lab/SCC).
 
@@ -68,6 +71,8 @@ reproduction of the results in the paper.
    ```
    pip install .
    ```
+Expected install time: less than 1 minute, but this may vary depending on how
+fast the required packages download.
 ---
 
 ## NMR Description Format
