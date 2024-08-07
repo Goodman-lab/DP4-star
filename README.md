@@ -71,8 +71,9 @@ reproduction of the results in the paper.
    ```
    pip install .
    ```
-Expected install time: less than 1 minute, but this may vary depending on how
-fast the required packages download.
+Expected install time: around 1 minute, but this may vary depending on how fast
+the required packages download.
+
 ---
 
 ## NMR Description Format
