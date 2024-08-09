@@ -30,6 +30,8 @@ can be reproduced in roughly 5 minutes.
 
 Scripts to reproduce the SCC plots from the paper are also available [on GitHub](https://github.com/Goodman-lab/SCC).
 
+Separately, the code necessary to reproduce the IR.Cai results from the paper is also available [on GitHub](https://github.com/Goodman-lab/IR.Cai)
+
 Functionality from other releases of DP4 (diastereoisomer generation, automatic
 interpretation of raw NMR data, conformational analysis of 5-membered rings,
 calculation of DP5 probabilities) has been removed to facilitate easy
